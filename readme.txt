@@ -1,2 +1,3 @@
 # data bricks tutorial
-The repo holds the contents from my databricks free edition.
+The repo holds the c databricks free edition.
+
